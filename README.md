@@ -1,7 +1,7 @@
 Publish a go web application based on kubernates
 ---
 
-[简体中文](README_CN.md)
+[简体中文](README.zh-CN.md)
 
 To publish a go web application with kubernates, there are mainly three major processes
 
